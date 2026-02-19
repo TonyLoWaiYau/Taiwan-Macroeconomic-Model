@@ -46,7 +46,7 @@ This creates `result_raw.xlsx` containing:
 2. Save and **close Excel** (the file must not be locked).
 3. In the app, click **Run Part 2 (Conditional Forecast + result_summary.xlsx)**.
 
-If the scenario is problematic (e.g., missing/non-numeric values), the app will show an error message.  
+If the scenario is problematic (e.g., non-numeric values), the app will show an error message.  
 You can then **edit `forecast_condition` again** and re-run Part 2 until satisfied.
 
 ---
@@ -104,7 +104,7 @@ Contains:
 ## Troubleshooting
 
 - **Part 2 fails / shows an error**:  
-  Usually caused by blank/non-numeric cells in the future rows of `forecast_condition`, or by unrealistic conditioning paths that break the conditional forecast solver.  
+  Usually caused by non-numeric cells in the future rows of `forecast_condition`, or by unrealistic conditioning paths that break the conditional forecast solver.  
   Fix the sheet, **save and close Excel**, then try Part 2 again.
 
 - **Cannot overwrite `result_raw.xlsx`**:  
