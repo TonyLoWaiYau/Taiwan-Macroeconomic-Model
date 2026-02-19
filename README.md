@@ -20,7 +20,7 @@ It is designed for **non-technical researchers** to conduct **forecasting and sc
 ## Installation (Windows)
 
 1. Go to the **Releases** page and download the latest installer:
-   - https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/releases/latest
+   - https://github.com/TonyLoWaiYau/Taiwan-Macroeconomic-Model/releases/latest
 2. Run the installer and launch the application from the Start Menu (or desktop shortcut if created).
 
 > Notes:
