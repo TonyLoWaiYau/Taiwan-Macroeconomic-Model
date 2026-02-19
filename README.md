@@ -110,11 +110,6 @@ Contains:
 - **Cannot overwrite `result_raw.xlsx`**:  
   Ensure Excel is closed (file not locked).
 
----
-
-## License
-
-See the `LICENSE` file.
 
 ---
 
